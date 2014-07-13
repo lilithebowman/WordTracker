@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">Word Tracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_project">New Project</string>
+    <string android:id="@+id/string1" name="set_wc_goal" android:layout_width="wrap_content" android:layout_height="wrap_content">Set your word count goal.</string>
+    <string name="wc_goal">Word Count Goal</string>
+    <string name="set">Set</string>
+    <string name="title_activity_word_count_graph">Word Count Graph</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
